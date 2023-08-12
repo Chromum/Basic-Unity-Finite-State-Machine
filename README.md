@@ -31,7 +31,7 @@ This Unity project provides an example of a simple finite state machine (FSM) im
 
 ## Usage
 
-1. Open the scene named `SampleScene` in the "Scenes" folder.
+1. Open the scene named `AI Sample Scene` in the "Scenes" folder.
 5. Press Play to see the bot following its patrol route and reacting to the player.
 
 ## Customization
